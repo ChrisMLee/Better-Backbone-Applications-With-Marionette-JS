@@ -1,0 +1,11 @@
+body {
+  font-family:  Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  //color: blue;
+}
+
+.done{
+  opacity: 0.5;
+  p{
+    text-decoration: line-through;
+  }
+}
