@@ -1,4 +1,4 @@
- var MyApp = Marionette.Application.extend({
+var MyApp = Marionette.Application.extend({
       // add your own properties and methods here
 });
 
